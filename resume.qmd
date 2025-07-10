@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andy Stamm CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
