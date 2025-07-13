@@ -1,21 +1,9 @@
 ---
-layout: cv
-title: Andy Stamm CV
+title: My Resume
+subtitle: Last Updated 7 - 12 - 2025
 ---
-# Andy Stamm
 
-Computer Scientist, Cellist, and Problem Solver
-
-<div id="webaddress">
-<a href="stamm.andrew.r@gmail.com">stamm.andrew.r@gmail.com</a>
-</div>
-
-
-# Resume
-
-Last Updated: 7 - 12 - 2025
-
-{{< pdf andrew_stamm_resume.pdf width=100% >}} 
+{{< pdf andrew_stamm_resume.pdf width="1000px" height="1100px" >}} 
 
 
 
