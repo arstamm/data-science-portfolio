@@ -15,7 +15,7 @@ Computer Scientist, Cellist, and Problem Solver
 
 Last Updated: 7 - 12 - 2025
 
-{{< pdf andrew_stamm_resume.pdf >}} 
+{{< pdf andrew_stamm_resume.pdf width=100% >}} 
 
 
 
